@@ -23,5 +23,7 @@ I work well in teams.
 
 I am very adaptive.
 
+I know how to and can code in laguages such as Java, Javascript, and Python.
+
 Career Goals:
 I wish to pursue a career in a auto or cuisine industry.
