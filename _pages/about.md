@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Laklen Ochs; 
-
 Personal Email: unbreakablewo@hotmail.com
 
 About Me:
