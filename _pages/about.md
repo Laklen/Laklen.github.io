@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Laklen Ochs; 
+
 Personal Email: unbreakablewo@hotmail.com
 
 About Me:
@@ -17,11 +18,11 @@ Skills:
 
 I speak a little spanish.
 
-Automotive: I've repaired mini bikes, 4 wheelers; I've taken a cadalitic convertor off of a Suzuki Rodeo and changed the exhaust of a Subaru STI WRX.
+I've repaired mini bikes, 4 wheelers; I've taken a catalytic convertor off of a Suzuki Rodeo and changed the exhaust of a Subaru STI WRX.
 
-Cuisine(Meats, deserts, ETC.)
+I can cook Multiple foods ranging from meats, to desserts.
 
-I work well in teams: I was a captain for my soccer team for two years
+I work well in teams.
 
 I am very adaptive.
 
