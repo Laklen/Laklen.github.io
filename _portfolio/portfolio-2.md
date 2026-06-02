@@ -1,6 +1,6 @@
 ---
 title: "The Second Game I Made."
-excerpt: "<br/><img src='/images/Game2Code.png'>"
+excerpt: "<br/><img src='/images/Game2.png'>"
 collection: portfolio
 ---
 
